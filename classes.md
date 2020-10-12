@@ -32,3 +32,24 @@ command-line utility for interacting with a said repository that aids in package
 - Interpreter: An interpreter is a computer program, which coverts each high-level program statement into the machine code. This includes source code, pre-compiled code, and scripts. Both compiler and interpreters do the same job which is converting higher-level programming language to machine code. However, a compiler will convert the code into machine code (create an exe) before the program run. Interpreters convert code into machine code when the program is run.
 
 - Compiler: A compiler is a special program that processes statements written in a particular programming language and turns them into machine language or "code" that a computer's processor uses.
+
+## Test-driven development
+
+Test Driven Development is a software development practice enabling developers to create proper specifications about how their code should be written and implemented. Fundamentally, TDD is a practice when a programmer writes a functional test before building a code.
+
+### Why To Use It
+
+1. Better program design and higher code quality
+2. Detailed project documentation
+
+## Context in JavaScript
+
+Context is related to objects. It refers to the object to which a function belongs. When you use the JavaScript “this” keyword, it refers to the object to which function belongs.
+
+# Classes
+
+Classes are a template for creating objects. They encapsulate data with code to work on that data. Classes in JS are built on prototypes but also have some syntax and semantics that are not shared with ES5 classalike semantics.
+
+## Inheritance
+
+inheritance is the mechanism of basing an object or class upon another object (prototype-based inheritance) or class (class-based inheritance), retaining similar implementation. Also defined as deriving new classes (sub classes) from existing ones such as super class or base class and then forming them into a hierarchy of classes.
