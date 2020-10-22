@@ -14,3 +14,4 @@
 | express-middleware            |            [express-middleware](https://mohammad-eshtaiwi.github.io/reading-notes-401/express-middleware)            |
 | Express-Routing               |               [Express-Routing](https://mohammad-eshtaiwi.github.io/reading-notes-401/Express-Routing)               |
 | API-Server                    |                    [API-Server](https://mohammad-eshtaiwi.github.io/reading-notes-401/API-Server)                    |
+| stack-queue                   |                   [stack-queue](https://mohammad-eshtaiwi.github.io/reading-notes-401/stack-queue)                   |
