@@ -17,3 +17,4 @@
 | stack-queue                   |                   [stack-queue](https://mohammad-eshtaiwi.github.io/reading-notes-401/stack-queue)                   |
 | Authentication                |                [Authentication](https://mohammad-eshtaiwi.github.io/reading-notes-401/Authentication)                |
 | OAuth                         |                         [OAuth](https://mohammad-eshtaiwi.github.io/reading-notes-401/OAuth)                         |
+| Bearer-Authorization          |          [Bearer-Authorization](https://mohammad-eshtaiwi.github.io/reading-notes-401/Bearer-Authorization)          |
