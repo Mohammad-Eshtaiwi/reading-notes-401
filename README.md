@@ -20,3 +20,4 @@
 | Bearer-Authorization          |          [Bearer-Authorization](https://mohammad-eshtaiwi.github.io/reading-notes-401/Bearer-Authorization)          |
 | RBAC                          |                          [RBAC](https://mohammad-eshtaiwi.github.io/reading-notes-401/RBAC)                          |
 | Binary-Tree                   |                   [Binary-Tree](https://mohammad-eshtaiwi.github.io/reading-notes-401/Binary-Tree)                   |
+| Event-Driven-Applications     |     [Event-Driven-Applications](https://mohammad-eshtaiwi.github.io/reading-notes-401/Event-Driven-Applications)     |
