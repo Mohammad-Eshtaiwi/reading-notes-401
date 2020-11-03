@@ -23,3 +23,4 @@
 | Event-Driven-Applications     |     [Event-Driven-Applications](https://mohammad-eshtaiwi.github.io/reading-notes-401/Event-Driven-Applications)     |
 | TCP                           |                           [TCP](https://mohammad-eshtaiwi.github.io/reading-notes-401/TCP)                           |
 | Socket.io                     |                     [Socket.io](https://mohammad-eshtaiwi.github.io/reading-notes-401/Socket.io)                     |
+| socket.io-2                   |                   [socket.io-2](https://mohammad-eshtaiwi.github.io/reading-notes-401/socket.io-2)                   |
